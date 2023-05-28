@@ -15,6 +15,22 @@ Hi, welcome to my repository. I am Mega Oceanna, a Data Explorer. I am a meticul
 11. Regression
 12. Correlation
 
-**Deck:**
-Data cleaning and EDA of property listings
-https://drive.google.com/file/d/1krov_THEHqg-2vKGLb40odnMmAHvZVKD/view?usp=sharing
+**Spreadsheet Link:** <br>
+[Data cleaning, descriptive statistics, hypothesis testing, and regression of property listings](https://docs.google.com/spreadsheets/d/1uU6VDe7P2K8FaSzbP5XX24fCDq7PfCGYbOXjETJpE2g/edit?usp=sharing) <br>
+[A/B testing to understand promotion effectiveness](https://docs.google.com/spreadsheets/d/1X4UbaSHyhtWs1-u-PSOsMABph-2PLpGdRoAv0NRUC2E/edit?usp=sharing) <br>
+
+
+
+## **SQL**
+1. Standard query syntax
+2. Aggregate function
+3. Join function
+4. Date function
+5. Character function
+6. String function
+7. CASE WHEN function
+8. Window function
+9. CTE function
+10. Subquery function
+
+**SQL Code Example:** <br>
