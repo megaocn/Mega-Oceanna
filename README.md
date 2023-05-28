@@ -19,8 +19,6 @@ Hi, welcome to my repository. I am Mega Oceanna, a Data Explorer. I am a meticul
 [Data cleaning, descriptive statistics, hypothesis testing, and regression of property listings](https://docs.google.com/spreadsheets/d/1uU6VDe7P2K8FaSzbP5XX24fCDq7PfCGYbOXjETJpE2g/edit?usp=sharing) <br>
 [A/B testing to understand promotion effectiveness](https://docs.google.com/spreadsheets/d/1X4UbaSHyhtWs1-u-PSOsMABph-2PLpGdRoAv0NRUC2E/edit?usp=sharing) <br>
 
-
-
 ## **SQL**
 1. Standard query syntax
 2. Aggregate function
@@ -34,3 +32,14 @@ Hi, welcome to my repository. I am Mega Oceanna, a Data Explorer. I am a meticul
 10. Subquery function
 
 **SQL Code Example:** <br>
+
+
+## **Python**
+1. Data cleaning
+2. 
+
+**Python Code Example:** <br>
+
+
+
+
