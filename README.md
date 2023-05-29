@@ -62,7 +62,7 @@ My medium: https://medium.com/@mega.ocn
 5. Data aggregation
 6. Descriptive statistics
 7. Visualize data with seaborn and matplotlib
-8. Cluster analysis
+8. Cluster analysis with k-means
 9. Correlation and regression analysis
 
 **Python Code Example:** <br>
