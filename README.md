@@ -77,7 +77,7 @@ My medium: https://medium.com/@mega.ocn
 5. Level of detail
 6. Data visualization
 7. Create a bins and CASE WHEN function in calculated field
-8. Create hierarchy
+8. Create a hierarchy
 9. Interactive dashboard with filter
 10. Navigation pane in tableau dashboard
 
