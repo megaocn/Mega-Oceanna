@@ -76,8 +76,9 @@ My medium: https://medium.com/@mega.ocn
 4. Calculated field
 5. Level of detail
 6. Data visualization
-7. Interactive dashboard with filter
-8. Navigation pane in tableau dashboard
+7. Create a bins and CASE WHEN function in calculated field
+8. Interactive dashboard with filter
+9. Navigation pane in tableau dashboard
 
 **Data Visualization Example:** <br>
 [Transaction metrics dashboard of Samba Commerce in Looker Studio](https://lookerstudio.google.com/reporting/aab7568d-6736-468a-b15b-eeffbd70289f)<br>
