@@ -9,8 +9,9 @@ My medium: https://medium.com/@mega.ocn
 ## Projects
 ### **Projects Done:**
 1. [Cluster Analysis by Store of O-Commerce Company](https://github.com/megaocn/Cluster-by-Store-of-US-Regional-Sales-Data.git)<br>
-2. [Transaction Metrics Dashboard and RFM Analysis for Customer Segmentation of Samba Commerce](https://drive.google.com/file/d/1NFtvyv4QnLFOuXwiFU_E0kAi3j_eabnH/view?usp=sharing)<br>
-3. [Optimize Product Category and Analyze Customer Retention with Cohort Analysis of TheLook Commerce](https://drive.google.com/file/d/1t7Fb4KL3yNHIdwjeiZlvbCqJoY2m6rRe/view?usp=sharing)<br>
+2. [Transaction Metrics Dashboard and RFM Analysis for Customer Segmentation of Samba Commerce](https://github.com/megaocn/Transaction-Metrics-and-Customer-Behavior-Dashboard-of-Samba-Commerce.git)<br>
+3. [Optimize Product Category and Analyze Customer Retention with Cohort Analysis of TheLook Commerce](https://github.com/megaocn/Optimize-Product-Category-and-Analyze-Customer-Retention-with-Cohort-Analysis-of-TheLook-Commerce.git)<br>
+4. [Thematic Campaign Recommendation Based on User Preferences with K-Means Clustering and Regression](https://github.com/megaocn/Thematic-Campaign-Recommendation-Based-on-User-Preferences-with-K-Means-Clustering-and-Regression.git)
 
 ### **On-going Projects:**
 1. [E-Commerce Business Transaction](https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business)
