@@ -26,11 +26,10 @@ My medium: https://medium.com/@mega.ocn
 5. Conditional format
 6. LOOKUP function
 7. IF function
-8. INDEX MATCH function
-9. SUM/COUNT/AVERAGEIF function
-10. A/B Testing
-11. Regression
-12. Correlation
+8. SUM/COUNT/AVERAGEIF function
+9. A/B Testing
+10. Regression
+11. Correlation
 
 **Spreadsheet Link:** <br>
 [Data cleaning, descriptive statistics, hypothesis testing, and regression of property listings](https://docs.google.com/spreadsheets/d/1uU6VDe7P2K8FaSzbP5XX24fCDq7PfCGYbOXjETJpE2g/edit?usp=sharing) <br>
