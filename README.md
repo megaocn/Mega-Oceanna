@@ -7,18 +7,18 @@ My linkedin: https://www.linkedin.com/in/mega-oceanna/ <br>
 My medium: https://medium.com/@mega.ocn
 
 ## Projects
-**Projects Done:**
+### **Projects Done:**
 1. [Cluster Analysis by Store of O-Commerce Company](https://drive.google.com/file/d/1tJrC42f4VveHnWQBkxT4Dx1x_bOemdbB/view?usp=sharing)<br>
 2. [Transaction Metrics Dashboard and RFM Analysis for Customer Segmentation of Samba Commerce](https://drive.google.com/file/d/1NFtvyv4QnLFOuXwiFU_E0kAi3j_eabnH/view?usp=sharing)<br>
 3. [Optimize Product Category and Analyze Customer Retention with Cohort Analysis of TheLook Commerce](https://drive.google.com/file/d/1t7Fb4KL3yNHIdwjeiZlvbCqJoY2m6rRe/view?usp=sharing)<br>
 4. [Thematic Campaign Recommendation Based on User Preferences with K-Means Clustering and Regression](https://drive.google.com/file/d/19oTPh8X86NAO7O-6AfLrbE1XGc5rE2XC/view?usp=sharing)<br>
 5. [A/B Testing to Understand Best Promotion Performance](https://drive.google.com/file/d/1S-050ltYf3cgTVyO4Uypu9OxPmaixV6T/view?usp=sharing)
 
-**On-going Projects:**
+### **On-going Projects:**
 1. E-Commerce Business Transaction
 
 ## Skills
-**Spreadsheet**
+### **Spreadsheet**
 1. Data cleaning
 2. Descriptive statistics
 3. Data visualization
@@ -36,7 +36,7 @@ My medium: https://medium.com/@mega.ocn
 [Data cleaning, descriptive statistics, hypothesis testing, and regression of property listings](https://docs.google.com/spreadsheets/d/1uU6VDe7P2K8FaSzbP5XX24fCDq7PfCGYbOXjETJpE2g/edit?usp=sharing) <br>
 [A/B testing to understand promotion effectiveness](https://docs.google.com/spreadsheets/d/1X4UbaSHyhtWs1-u-PSOsMABph-2PLpGdRoAv0NRUC2E/edit?usp=sharing) <br>
 
-## **SQL**
+### **SQL**
 1. Standard query syntax
 2. Aggregate function
 3. Join function
@@ -55,18 +55,31 @@ My medium: https://medium.com/@mega.ocn
 4. [What date in each month in 2022 that contributes to the highest sales](https://console.cloud.google.com/bigquery?sq=113264810651:9fc0e9c8529a45eabecc25c198b3e462)<br>
 5. [Lowest revenue growth category in 2022](https://console.cloud.google.com/bigquery?sq=113264810651:20d578b7a26b40e3a82772fb5c1b9e66)<br>
 
-
-
-## **Python**
-1. Data cleaning
-2. 
+### **Python**
+1. Data cleaning: remove irrelevant value, remove duplicate data, handle missing value, handle typo value, convert the data type, handle outlier
+2. Combine and merge datasets
+3. String manipulation
+4. Date manipulation
+5. Data aggregation
+6. Descriptive statistics
+7. Visualize data with seaborn and matplotlib
+8. Cluster analysis
+9. Correlation and regression analysis
 
 **Python Code Example:** <br>
+1. [Thematic campaign recommendation based on customer preferences](https://colab.research.google.com/drive/16HjWB7XxQAoM97qtDePay6xXQp_KAUWG#scrollTo=evk5aoKP036p)<br>
+2. [Cluster by store of US regional sales data](https://colab.research.google.com/drive/1emAjF2Tvf4eKWcslHackBFyLg-JI804w?usp=sharing)
 
-
-## **Data Visualization with Looker Studio, Tableau, and Microsoft Power BI**
+### **Data Visualization with Looker Studio, Tableau, and Microsoft Power BI**
 1. Data cleaning
-2. 
+2. Convert data type
+3. Connect and join datasets
+4. Calculated field
+5. Level of detail
+6. Data visualization
+7. Interactive dashboard with filter
+8. Navigation pane in tableau dashboard
 
 **Data Visualization Example:** <br>
-
+[Transaction metrics dashboard of Samba Commerce in Looker Studio](https://lookerstudio.google.com/reporting/aab7568d-6736-468a-b15b-eeffbd70289f)<br>
+[Transaction metrics and customer behavior dashboard of Samba Commerce in Tableau](https://public.tableau.com/app/profile/mega.oceanna/viz/W10W11_Mega_Oceannaxxx/Intermediate)<br>
