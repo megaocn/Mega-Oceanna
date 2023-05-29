@@ -19,7 +19,7 @@ My medium: https://medium.com/@mega.ocn
 2. [Titanic Public Dataset - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic/overview)
 
 ## Skills
-### **Spreadsheet**
+### **a. Spreadsheet**
 1. Data cleaning
 2. Descriptive statistics
 3. Data visualization
@@ -37,7 +37,7 @@ My medium: https://medium.com/@mega.ocn
 [Data cleaning, descriptive statistics, hypothesis testing, and regression of property listings](https://docs.google.com/spreadsheets/d/1uU6VDe7P2K8FaSzbP5XX24fCDq7PfCGYbOXjETJpE2g/edit?usp=sharing) <br>
 [A/B testing to understand promotion effectiveness](https://docs.google.com/spreadsheets/d/1X4UbaSHyhtWs1-u-PSOsMABph-2PLpGdRoAv0NRUC2E/edit?usp=sharing) <br>
 
-### **SQL**
+### **b. SQL**
 1. Standard query syntax
 2. Aggregate function
 3. Join function
@@ -56,7 +56,7 @@ My medium: https://medium.com/@mega.ocn
 4. [What date in each month in 2022 that contributes to the highest sales](https://console.cloud.google.com/bigquery?sq=113264810651:9fc0e9c8529a45eabecc25c198b3e462)<br>
 5. [Lowest revenue growth category in 2022](https://console.cloud.google.com/bigquery?sq=113264810651:20d578b7a26b40e3a82772fb5c1b9e66)<br>
 
-### **Python**
+### **c. Python**
 1. Data cleaning: remove irrelevant value, remove duplicate data, handle missing value, handle typo value, convert the data type, handle outlier
 2. Combine and merge datasets
 3. String manipulation
@@ -71,7 +71,7 @@ My medium: https://medium.com/@mega.ocn
 1. [Thematic campaign recommendation based on customer preferences](https://colab.research.google.com/drive/16HjWB7XxQAoM97qtDePay6xXQp_KAUWG#scrollTo=evk5aoKP036p)<br>
 2. [Cluster by store of US regional sales data](https://colab.research.google.com/drive/1emAjF2Tvf4eKWcslHackBFyLg-JI804w?usp=sharing)
 
-### **Data Visualization with Looker Studio, Tableau, and Microsoft Power BI**
+### **d. Data Visualization with Looker Studio, Tableau, and Microsoft Power BI**
 1. Data cleaning
 2. Convert data type
 3. Connect and join datasets
