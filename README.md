@@ -55,7 +55,7 @@ My medium: https://medium.com/@mega.ocn
 5. [Lowest revenue growth category in 2022](https://console.cloud.google.com/bigquery?sq=113264810651:20d578b7a26b40e3a82772fb5c1b9e66)<br>
 
 ### **c. Python**
-1. Data cleaning: remove irrelevant value, remove duplicate data, handle missing value, handle typo value, convert the data type, handle outlier
+1. Data cleaning: remove irrelevant value, remove duplicate data, handle missing value, handle typo data, convert the data type, handle outlier
 2. Combine and merge datasets
 3. String manipulation
 4. Date manipulation
