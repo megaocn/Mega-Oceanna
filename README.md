@@ -49,6 +49,12 @@ My medium: https://medium.com/@mega.ocn
 10. Subquery function
 
 **SQL Code Example:** <br>
+1. [Total customers buy in each month in 2022](https://console.cloud.google.com/bigquery?sq=113264810651:1b6f0ddba53c4043b7ef24a8857c953f)<br>
+2. [Most purchased and most cancelled products in 2022](https://console.cloud.google.com/bigquery?sq=113264810651:d556319d3ba24d45a1d1c316d1ec7d3c)<br>
+3. [Monthly revenue growth](https://console.cloud.google.com/bigquery?sq=113264810651:552c838296214d90ac8da9cc46ae7f60)<br>
+4. [What date in each month that contributes to the highest sales](https://console.cloud.google.com/bigquery?sq=113264810651:9fc0e9c8529a45eabecc25c198b3e462)<br>
+5. [Lowest revenue growth category in 2022](https://console.cloud.google.com/bigquery?sq=113264810651:20d578b7a26b40e3a82772fb5c1b9e66)<br>
+
 
 
 ## **Python**
