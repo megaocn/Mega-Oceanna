@@ -8,7 +8,7 @@ My medium: https://medium.com/@mega.ocn
 
 ## Projects
 ### **Projects Done:**
-1. [Cluster Analysis by Store of O-Commerce Company](https://drive.google.com/file/d/1tJrC42f4VveHnWQBkxT4Dx1x_bOemdbB/view?usp=sharing)<br>
+1. [Cluster Analysis by Store of O-Commerce Company](https://github.com/megaocn/Cluster-by-Store-of-US-Regional-Sales-Data.git)<br>
 2. [Transaction Metrics Dashboard and RFM Analysis for Customer Segmentation of Samba Commerce](https://drive.google.com/file/d/1NFtvyv4QnLFOuXwiFU_E0kAi3j_eabnH/view?usp=sharing)<br>
 3. [Optimize Product Category and Analyze Customer Retention with Cohort Analysis of TheLook Commerce](https://drive.google.com/file/d/1t7Fb4KL3yNHIdwjeiZlvbCqJoY2m6rRe/view?usp=sharing)<br>
 4. [Thematic Campaign Recommendation Based on User Preferences with K-Means Clustering and Regression](https://drive.google.com/file/d/19oTPh8X86NAO7O-6AfLrbE1XGc5rE2XC/view?usp=sharing)<br>
