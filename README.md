@@ -15,7 +15,8 @@ My medium: https://medium.com/@mega.ocn
 5. [A/B Testing to Understand Best Promotion Performance](https://drive.google.com/file/d/1S-050ltYf3cgTVyO4Uypu9OxPmaixV6T/view?usp=sharing)
 
 ### **On-going Projects:**
-1. E-Commerce Business Transaction
+1. [E-Commerce Business Transaction](https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business)
+2. [Titanic Public Dataset - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic/overview)
 
 ## Skills
 ### **Spreadsheet**
