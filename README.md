@@ -1,7 +1,24 @@
 # Data Analytics Portfolio by Mega Oceanna
-Hi, welcome to my repository. I am Mega Oceanna, a Data Explorer. I am a meticulous person and really love working in a huge number of data. For me, exploring the data is an interesting challenge! Hence, I never stop to delve deeper my skills in data fields. These are my skills as a Data Analyst:
+Hi, welcome to my repository. I am Mega Oceanna, a Data Explorer. I am a meticulous person and really love working in a huge number of data. For me, exploring the data is an interesting challenge! Hence, I never stop to delve deeper my skills in data fields. 
 
-## **Spreadsheet**
+Here are some links that you can access to know more about me! :) <br>
+My resume: [here](https://drive.google.com/file/d/10Hzd_jgs7sGTjijATRH1bHT5D2Rxs3-4/view?usp=sharing) <br>
+My linkedin: https://www.linkedin.com/in/mega-oceanna/ <br>
+My medium: https://medium.com/@mega.ocn
+
+## Projects
+**Projects Done:**
+1. [Cluster Analysis by Store of O-Commerce Company](https://drive.google.com/file/d/1tJrC42f4VveHnWQBkxT4Dx1x_bOemdbB/view?usp=sharing)<br>
+2. [Transaction Metrics Dashboard and RFM Analysis for Customer Segmentation of Samba Commerce](https://drive.google.com/file/d/1NFtvyv4QnLFOuXwiFU_E0kAi3j_eabnH/view?usp=sharing)<br>
+3. [Optimize Product Category and Analyze Customer Retention with Cohort Analysis of TheLook Commerce](https://drive.google.com/file/d/1t7Fb4KL3yNHIdwjeiZlvbCqJoY2m6rRe/view?usp=sharing)<br>
+4. [Thematic Campaign Recommendation Based on User Preferences with K-Means Clustering and Regression](https://drive.google.com/file/d/19oTPh8X86NAO7O-6AfLrbE1XGc5rE2XC/view?usp=sharing)<br>
+5. [A/B Testing to Understand Best Promotion Performance](https://drive.google.com/file/d/1S-050ltYf3cgTVyO4Uypu9OxPmaixV6T/view?usp=sharing)
+
+**On-going Projects:**
+1. E-Commerce Business Transaction
+
+## Skills
+**Spreadsheet**
 1. Data cleaning
 2. Descriptive statistics
 3. Data visualization
@@ -41,5 +58,9 @@ Hi, welcome to my repository. I am Mega Oceanna, a Data Explorer. I am a meticul
 **Python Code Example:** <br>
 
 
+## **Data Visualization with Looker Studio, Tableau, and Microsoft Power BI**
+1. Data cleaning
+2. 
 
+**Data Visualization Example:** <br>
 
