@@ -3,7 +3,7 @@ Hi, welcome to my repository. I am Mega Oceanna, a Data Explorer. I am a meticul
 
 Here are some links that you can access to know more about me! :) <br>
 My resume: [here](https://drive.google.com/file/d/1wau7a17vPGA34OVo4U1FYVX0jG3IQGwj/view?usp=sharing) <br>
-My portfolio link: https://sites.google.com/view/mega-oceanna/home <br>
+My portfolio link: https://sites.google.com/view/mega-oceanna/ <br>
 My linkedin: https://www.linkedin.com/in/mega-oceanna/ <br>
 My medium: https://medium.com/@mega.ocn
 
