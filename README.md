@@ -2,7 +2,7 @@
 Hi, welcome to my repository. I am Mega Oceanna, a Data Explorer. I am a meticulous person and really love working in a huge number of data. For me, exploring the data is an interesting challenge! Hence, I never stop to delve deeper my skills in data fields. 
 
 Here are some links that you can access to know more about me! :) <br>
-My resume: [here](https://drive.google.com/file/d/1wau7a17vPGA34OVo4U1FYVX0jG3IQGwj/view?usp=sharing) <br>
+My resume: [here](https://drive.google.com/file/d/1DSeJbEkoPG9Euon_1xrv_imgwWlE_Be9/view?usp=sharing) <br>
 My portfolio link: https://sites.google.com/view/mega-oceanna/ <br>
 My linkedin: https://www.linkedin.com/in/mega-oceanna/ <br>
 My medium: https://medium.com/@mega.ocn
